@@ -1,0 +1,9 @@
+--[[    ERRORS:
+ All of these occurred during the attempted conversion:
+
+
+    Failed to convert snort.conf:582
+    include threshold.conf
+    ^^^^ unknown_syntax=Can't find file threshold.conf. Searched locations:
+        [threshold.conf], [./threshold.conf]
+--]]
